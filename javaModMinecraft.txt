@@ -1,0 +1,61 @@
+Tahap 1 – Persiapan lingkungan
+- Install JDK.
+- Install VS Code.
+- Install extension Java.
+- Mengenal NeoForge MDK.
+- Menjalankan Minecraft dari development environment.
+
+
+
+Tahap 2 – Membuat mod pertama
+- Mengenal struktur folder mod.
+- Memahami file build.gradle.
+- Membuat Main Mod Class.
+- Membuat mod dengan nama sendiri.
+
+
+
+Tahap 3 – Membuat item
+- Membuat item baru.
+- Menambahkan tekstur PNG.
+- Membuat model JSON.
+- Mengatur nama dan kategori item.
+
+
+
+Tahap 4 – Membuat senjata
+- Membuat pedang.
+- Mengatur damage dan attack speed.
+- Membuat senjata dengan kemampuan khusus.
+
+
+
+Tahap 5 – Membuat sistem kemampuan
+- Efek api.
+- Efek racun.
+- Efek petir.
+- Efek ledakan.
+
+
+
+Tahap 6 – Membuat blok dan material
+- Blok baru.
+- Ore dan mineral.
+- Crafting recipe.
+- Smelting recipe.
+
+
+
+Tahap 7 – Membuat GUI dan fitur lanjutan
+- Custom menu.
+- Sistem crafting.
+- Event Minecraft.
+- Interaksi pemain.
+
+
+
+Tahap 8 – Build dan distribusi
+- Build file JAR.
+- Testing mod.
+- Memperbaiki error.
+- Instalasi mod ke Minecraft.
